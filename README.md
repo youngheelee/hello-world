@@ -1,4 +1,4 @@
 
 # hello-world
 Hi humans!
-I've played Yoga in the morning and took a cup of coffee.
+I've played Yoga and took a cup of coffee in the morning.
