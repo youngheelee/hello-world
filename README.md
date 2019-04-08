@@ -1,5 +1,5 @@
 
 # hello-world
-Hi humans!
+Hi everyone!
 I've played Yoga and took a cup of coffee in the morning.
-I've studied Deep Learning  and watched TV yesterday night.
+I've studied Deep Learning yesterday night.
